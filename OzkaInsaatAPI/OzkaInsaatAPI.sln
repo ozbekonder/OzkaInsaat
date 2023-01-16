@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaatAPI", "OzkaInsaatAPI\OzkaInsaatAPI.csproj", "{F0D2595F-736B-479A-830B-111F6ADC8A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaat.Entity", "OzkaInsaat.Entity\OzkaInsaat.Entity.csproj", "{997C8B36-FDCE-47D4-B0AE-5220839B6F06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaat.Bll", "OzkaInsaat.Bll\OzkaInsaat.Bll.csproj", "{2862E001-86F7-4729-8B6E-7501E485BA56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaat.Dal", "OzkaInsaat.Dal\OzkaInsaat.Dal.csproj", "{C5DFC9F7-E7F9-4EEA-A17F-5CDC2E22B68D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaatWeb", "OzkaInsaatWeb\OzkaInsaatWeb.csproj", "{BD1787CC-928E-4F5E-B761-ECD76991480F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaat.Common", "OzkaInsaat.Common\OzkaInsaat.Common.csproj", "{381102A5-50DF-4B92-B9F7-98A5AC9BAAD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzkaInsaat.EndPoints", "OzkaInsaat.EndPoints\OzkaInsaat.EndPoints.csproj", "{D7BA4728-A4C6-4721-8C9F-733ABE514147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D2595F-736B-479A-830B-111F6ADC8A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D2595F-736B-479A-830B-111F6ADC8A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D2595F-736B-479A-830B-111F6ADC8A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D2595F-736B-479A-830B-111F6ADC8A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997C8B36-FDCE-47D4-B0AE-5220839B6F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997C8B36-FDCE-47D4-B0AE-5220839B6F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997C8B36-FDCE-47D4-B0AE-5220839B6F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997C8B36-FDCE-47D4-B0AE-5220839B6F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2862E001-86F7-4729-8B6E-7501E485BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2862E001-86F7-4729-8B6E-7501E485BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2862E001-86F7-4729-8B6E-7501E485BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2862E001-86F7-4729-8B6E-7501E485BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DFC9F7-E7F9-4EEA-A17F-5CDC2E22B68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DFC9F7-E7F9-4EEA-A17F-5CDC2E22B68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DFC9F7-E7F9-4EEA-A17F-5CDC2E22B68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DFC9F7-E7F9-4EEA-A17F-5CDC2E22B68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1787CC-928E-4F5E-B761-ECD76991480F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1787CC-928E-4F5E-B761-ECD76991480F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1787CC-928E-4F5E-B761-ECD76991480F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1787CC-928E-4F5E-B761-ECD76991480F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381102A5-50DF-4B92-B9F7-98A5AC9BAAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381102A5-50DF-4B92-B9F7-98A5AC9BAAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381102A5-50DF-4B92-B9F7-98A5AC9BAAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381102A5-50DF-4B92-B9F7-98A5AC9BAAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BA4728-A4C6-4721-8C9F-733ABE514147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BA4728-A4C6-4721-8C9F-733ABE514147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BA4728-A4C6-4721-8C9F-733ABE514147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BA4728-A4C6-4721-8C9F-733ABE514147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0540D5-296E-4245-BFB9-36199B50F86F}
+	EndGlobalSection
+EndGlobal

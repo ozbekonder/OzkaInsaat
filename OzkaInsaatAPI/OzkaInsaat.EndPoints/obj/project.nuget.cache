@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkJmsiSeP8tlIXMdzFKLfRPG08gTY05zqrgo1FOssZp/pZg/3Sk1IJ+T6FIDB0z9bPsaWrSaIz0IAbkeyzUopw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\OzkaInsaat.EndPoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\excalibur\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

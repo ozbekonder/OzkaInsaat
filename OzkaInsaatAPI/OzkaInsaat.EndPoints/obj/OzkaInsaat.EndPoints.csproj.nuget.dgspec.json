@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\OzkaInsaat.EndPoints.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\OzkaInsaat.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\OzkaInsaat.Common.csproj",
+        "projectName": "OzkaInsaat.Common",
+        "projectPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\OzkaInsaat.Common.csproj",
+        "packagesPath": "C:\\Users\\excalibur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\excalibur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\OzkaInsaat.EndPoints.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\OzkaInsaat.EndPoints.csproj",
+        "projectName": "OzkaInsaat.EndPoints",
+        "projectPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\OzkaInsaat.EndPoints.csproj",
+        "packagesPath": "C:\\Users\\excalibur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.EndPoints\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\excalibur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\OzkaInsaat.Common.csproj": {
+                "projectPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Common\\OzkaInsaat.Common.csproj"
+              },
+              "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\OzkaInsaat.Entity.csproj": {
+                "projectPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\OzkaInsaat.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\OzkaInsaat.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\OzkaInsaat.Entity.csproj",
+        "projectName": "OzkaInsaat.Entity",
+        "projectPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\OzkaInsaat.Entity.csproj",
+        "packagesPath": "C:\\Users\\excalibur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\excalibur\\source\\repos\\OzkaInsaatAPI\\OzkaInsaat.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\excalibur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

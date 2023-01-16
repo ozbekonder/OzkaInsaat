@@ -1,0 +1,11 @@
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\bin\Debug\net5.0\OzkaInsaat.Entity.deps.json
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\bin\Debug\net5.0\OzkaInsaat.Entity.dll
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\bin\Debug\net5.0\ref\OzkaInsaat.Entity.dll
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\bin\Debug\net5.0\OzkaInsaat.Entity.pdb
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.AssemblyInfoInputs.cache
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.AssemblyInfo.cs
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.dll
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\ref\OzkaInsaat.Entity.dll
+C:\Users\excalibur\source\repos\OzkaInsaatAPI\OzkaInsaat.Entity\obj\Debug\net5.0\OzkaInsaat.Entity.pdb
